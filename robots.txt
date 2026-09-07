@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yavyig.github.io/local-music-player/sitemap.xml
